@@ -7,6 +7,13 @@ jupyter-book
 # ALSO ADD ANY PACKAGES THAT YOUR NOTEBOOKS REQURE (BELOW)
 # JUPYER BOOK WILL EXECUTE THE NOTEBOOKS
 # ... SO THEY WILL NEED TO HAVE THEIR PACKAGE DEPENDENCIES SATISFIED
-matplotlib
-numpy
+#matplotlib
+#numpy
 # etc...
+ipython==8.12.3
+ipywidgets==8.1.2
+matplotlib==3.9.0
+numpy==1.26.4
+pandas==2.2.2
+
+
