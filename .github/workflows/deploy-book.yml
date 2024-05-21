@@ -12,7 +12,7 @@ on:
     # folder has been modified.
     #
     paths:
-    - example-book/**
+    - fire-101/**
 
 jobs:
   deploy-book:
