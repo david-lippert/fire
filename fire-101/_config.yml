@@ -30,3 +30,11 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+launch_buttons:
+  binderhub_url: "https://mybinder.org"  # Update this if you're using a BinderHub that is not mybinder.org.
+  jupyterhub_url: ""  # If you're not using JupyterHub, keep this empty.
+  notebook_interface: "classic"  # Can also be "jupyterlab".
+  colab_url: ""  # If you're not using Google Colab, keep this empty.
+
+
