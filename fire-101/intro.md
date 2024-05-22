@@ -2,7 +2,7 @@
 
 This book is designed to help you understand the basics of financial planning and investing while introducing you to the Financial Independence Retire Early (FIRE) concept.
 It shows off some interactive examples demonstrating compound interest and retirement planning.
-For in-depth information about FIRE please check out these additional sights.
+For in-depth information about FIRE please check out these additional sites.
 
 
 ```{tableofcontents}
