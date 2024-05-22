@@ -4,6 +4,7 @@
 title: Set Your Money on FIRE
 author: David Lippert
 logo: ospo-logo.png
+root: ./
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
