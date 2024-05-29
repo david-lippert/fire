@@ -4,4 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: fire-for-lai
+- file: fire-overview
+- file: budgeting
+- file: spending-less
+- file: investing
+- file: financial-planning
+#- file: fire-for-lai
