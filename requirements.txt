@@ -10,10 +10,12 @@ jupyter-book
 #matplotlib
 #numpy
 # etc...
-ipython==8.12.3
-ipywidgets==8.1.2
-matplotlib==3.9.0
-numpy==1.26.4
-pandas==2.2.2
+ipython
+ipywidgets
+shinywidgets
+matplotlib
+numpy
+pandas
+#shinylive
 
 
